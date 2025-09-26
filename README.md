@@ -6,5 +6,5 @@ This repository has moved.
 New locations:
 
 * Radicle: 
-* Backup: 
+* Backup: https://git.m-u.xyz/mig-test
 * Codeberg: https://codeberg.org/Smurf/mig-test
