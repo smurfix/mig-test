@@ -5,7 +5,6 @@ This repository has moved.
 
 New locations:
 
-
-* mig-test: 
-* mig-test: 
-* : https://codeberg.org/Smurf/mig-test
+* Radicle: 
+* Backup: 
+* Codeberg: https://codeberg.org/Smurf/mig-test
